@@ -1,0 +1,1 @@
+gem install GEMNAME [GEMNAME momo] [invisible] -- --build-flags [private]
